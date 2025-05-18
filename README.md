@@ -1,10 +1,15 @@
-
 🌟 Features That Will Blow Your Mind :
+  
   🚀 17x Faster Hessian computation using custom Triton kernels
+  
   🧠 Adaptive Noise Injection for robustness preservation
+  
   ⚡ Real-Time Compression (200M params/sec on RTX 3090)
+  
   🧩 Automatic Architecture Reconfiguration
+  
   🔒 Enterprise-Grade (Tested on LLaMA-2 70B, GPT-3.5-Turbo, Falcon-180B)
+
 📥 Installation - It's Easier Than You Think :
   # Step 1: Install with PyPI
     pip install dsm-compress --extra-index-url https://download.pytorch.org/whl/cu118
