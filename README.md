@@ -66,12 +66,6 @@ Supported Platforms:
   year={2024},
   publisher={GitHub},
   howpublished={\url{https://github.com/shayanthn/dsm-compress}},
-}
-<div align="center"> <h2>💌 Connect with the Mad Scientist</h2>
-[GitHub](https://github.com/shayanthn)
-[LinkedIn](https://linkedin.com/in/shayantaherkhani)
-[Email](https://mailto:shayanthn78@gmail.com/)
-
-⭐ Star this repo if you want to see more AI magic! ⭐
-
-</div>
+🚀 [![GitHub stars](https://img.shields.io/github/stars/shayanthn/dsm-compress?style=social)](https://github.com/shayanthn/dsm-compress)  
+📧 [![Email](https://img.shields.io/badge/Contact-shayanthn78@gmail.com-red)](mailto:shayanthn78@gmail.com)  
+💼 [![LinkedIn](https://img.shields.io/badge/Connect-Shayan_Taherkhani-blue)](https://linkedin.com/in/shayantaherkhani)
