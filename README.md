@@ -1,9 +1,4 @@
-# Traditional Methods vs DSM-Compress
-┌──────────────────────┬───────────────────────────────┐
-│   Ordinary Pruning   │  80% Model Size Reduction     │
-│       ↓              │      ↓                        │
-│   3-15% Accuracy Loss│   0.01% Accuracy Loss         │
-└──────────────────────┴───────────────────────────────┘
+
 🌟 Features That Will Blow Your Mind :
   🚀 17x Faster Hessian computation using custom Triton kernels
   🧠 Adaptive Noise Injection for robustness preservation
