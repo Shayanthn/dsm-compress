@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shayanthn/dsm-compress/main/assets/dsm-banner.gif" alt="DSM-Compress Banner">
-</p>
-## 🚀 **What Makes This Revolutionary?**
-```python
 # Traditional Methods vs DSM-Compress
 ┌──────────────────────┬───────────────────────────────┐
 │   Ordinary Pruning   │  80% Model Size Reduction     │
