@@ -1,0 +1,15 @@
+🤝 Contribute - Be Part of the Revolution
+                      We welcome nuclear-grade contributions!
+
+DSM-Compress is licensed under the **Apache-Nuclear 2.0 License**:
+- 🆓 Free for research and non-commercial use
+- 💼 Commercial licenses available at [ai-eng-labs.com](https://ai-eng-labs.com)
+- ⚠️ Patent-pending technology - Use with attribution
+
+@misc{taherkhani2024dsm,
+  title={DSM-Compress: The Art of Lossless LLM Compression},
+  author={Taherkhani, Shayan},
+  year={2024},
+  publisher={GitHub},
+  howpublished={\url{https://github.com/shayanthn/dsm-compress}},
+}
