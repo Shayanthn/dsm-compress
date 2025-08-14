@@ -10,4 +10,4 @@
 
 📧 [![Email](https://img.shields.io/badge/Contact-shayanthn78@gmail.com-red)](mailto:shayanthn78@gmail.com)  
 
-💼 [![LinkedIn](https://img.shields.io/badge/Connect-Shayan_Taherkhani-blue)](https://linkedin.com/in/shayantaherkhani)
+💼 [![LinkedIn](https://img.shields.io/badge/Connect-Shayan_Taherkhani-blue)](https://linkedin.com/in/shayantaherkhani78)
